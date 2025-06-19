@@ -1,7 +1,5 @@
 package com.dio.e_commerce.repository;
 
-
-
 import com.dio.e_commerce.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
